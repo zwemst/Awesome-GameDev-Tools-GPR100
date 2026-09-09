@@ -27,8 +27,15 @@ http://www.gimp.org/ GNU Image Manipulation Program, or GIMP for short, allows y
 - Game Art
 - Audio Design
 - Quality Assurance
+- Level Designer
 ## Game Programming Disciplines 
- - AI Programming
- - Physics Programming
- - Graphics Programming
- - Gameplay Programming
+- AI Programming
+- Physics Programming
+- Graphics Programming
+- Gameplay Programming
+- Engine Programming
+- Sound Programming
+- UI Programming
+- Network Programming
+- Tool Programming
+- Scripting Programming
