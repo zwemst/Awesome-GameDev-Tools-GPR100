@@ -22,17 +22,17 @@ http://www.piskelapp.com/ is a free online pixel art editor
 - GIMP
 http://www.gimp.org/ GNU Image Manipulation Program, or GIMP for short, allows you to edit and manipulate, as well as create images.
 ## Career Pathways
-- Game Design
+### Game Design
   these are the people who figure out how the game should play, such as figuring out what genre it is, creating its core systems and mechanics
-- Game Programming
+### Game Programming
   these are the people who make the systems work, they program the systems and mechanics into the game, and help realize the designer's vision
-- Game Art
+### Game Art
   these are the people who design the look of everything, from the world to the characters, they form the view of the world
-- Audio Design
+### Audio Design
   these are the people who form the sound of the world, from foley to how characters and enemies sound, as well as songs and the soundtrack
-- Quality Assurance
+### Quality Assurance
   these are the people who test to make sure everything is working as intended, as well as making sure everything looks and sounds correct
-- Level Designer
+### Level Designer
   these are the people who create the physical world of the game, creating the assets of the world and implementing them
 ## Game Programming Disciplines 
 ### AI Programming
