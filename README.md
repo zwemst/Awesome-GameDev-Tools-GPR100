@@ -35,58 +35,58 @@ http://www.gimp.org/ GNU Image Manipulation Program, or GIMP for short, allows y
 - Level Designer
   these are the people who create the physical world of the game, creating the assets of the world and implementing them
 ## Game Programming Disciplines 
-- AI Programming
-Gameplay AI Engineer
-Combat AI Programmer
-Pathfinding Engineer
-Behavior Systems Programmer
-- Physics Programming
-Physics Programmer
-Physics Engine Engineer
-Simulation Programmer
-- Graphics Programming
-Graphics Programmer
-Rendering Engineer
-Shader Programmer
-Lighting Programmer
-VFX Programmer
-Technical Artist
-- Gameplay Programming
+### AI Programming
+- Gameplay AI Engineer
+- Combat AI Programmer
+- Pathfinding Engineer
+- Behavior Systems Programmer
+### Physics Programming
+- Physics Programmer
+- Physics Engine Engineer
+- Simulation Programmer
+### Graphics Programming
+- Graphics Programmer
+- Rendering Engineer
+- Shader Programmer
+- Lighting Programmer
+- VFX Programmer
+- Technical Artist
+### Gameplay Programming
 Gameplay Programmer
-Systems Designer/Programmer
-Combat Programmer
-Mechanics Programmer
-Feature Programmer
-- Engine Programming
-Engine Programmer
-Core Systems Engineer
-Runtime Engineer
-Build Engineer
-Performance Engineer
-Memory/Systems Architect
-- Sound Programming
-Audio Programmer
-Sound Engineer 
-Audio Systems Engineer
-Interactive Audio Programmer
-- UI Programming
-UI Programmer
-UX Engineer
-Frontend Engineer 
-HUD/Menu Programmer
-- Network Programming
-Network Programmer
-Multiplayer Engineer
-Netcode Engineer
-Backend Engineer 
-Server Programmer
-- Tool Programming
-Tools Programmer
-Editor Programmer
-Pipeline Engineer
-Technical Artist
-Build/DevOps Engineer
-- Scripting Programming
-Scripting Engineer
-Gameplay Scripter
-Systems Scripter
+- Systems Designer/Programmer
+- Combat Programmer
+- Mechanics Programmer
+- Feature Programmer
+### Engine Programming
+- Engine Programmer
+- Core Systems Engineer
+- Runtime Engineer
+- Build Engineer
+- Performance Engineer
+- Memory/Systems Architect
+### Sound Programming
+- Audio Programmer
+- Sound Engineer 
+- Audio Systems Engineer
+- Interactive Audio Programmer
+### UI Programming
+- UI Programmer
+- UX Engineer
+- Frontend Engineer 
+- HUD/Menu Programmer
+### Network Programming
+- Network Programmer
+- Multiplayer Engineer
+- Netcode Engineer
+- Backend Engineer 
+- Server Programmer
+### Tool Programming
+- Tools Programmer
+- Editor Programmer
+- Pipeline Engineer
+- Technical Artist
+- Build/DevOps Engineer
+### Scripting Programming
+- Scripting Engineer
+- Gameplay Scripter
+- Systems Scripter
